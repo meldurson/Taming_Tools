@@ -26,7 +26,7 @@ Rewrite of the items and tools, extracted and expanded from **AllTameable**.
 
 This mod focuses purely on **items and features for taming**. If you want the full overhaul experience that **AllTameable** added, check out:
 
-### 🐗 Let Me Tame You: 
+### [🐗 Let Me Tame You:](https://thunderstore.io/c/valheim/p/Meldurson/LetMeTameYou/) 
 * Adds the ability to tame almost any creature.
 
 ### 🐉 Creature Genetics: 
